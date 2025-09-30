@@ -308,3 +308,8 @@
     </script>
 </body>
 </html>
+        `;
+        document.head.appendChild(style);
+    </script>
+</body>
+</html>
